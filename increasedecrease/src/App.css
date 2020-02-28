@@ -1,0 +1,9 @@
+.App {
+  width: fit-content;
+  margin: auto;
+  text-align: center;
+}
+
+button {
+  font-size: 25px;
+}
